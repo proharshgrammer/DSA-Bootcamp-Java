@@ -46,7 +46,7 @@
 - [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
 - [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
-- [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+- [Shifting Letters](https://leetcode.com/problems/shifting-letters/) - Done
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
